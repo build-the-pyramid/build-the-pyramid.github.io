@@ -8,3 +8,4 @@ out/
 .playwright-cli/
 release/
 output/playwright/
+.idea/
