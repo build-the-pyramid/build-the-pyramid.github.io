@@ -1,0 +1,1314 @@
+[
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Build the Pyramid Codes (October 2026) | Roblox",
+    "description": "Get the latest Build the Pyramid codes for Roblox, current rewards, expired codes, redemption steps and where new Janitors Studios codes are posted.",
+    "keywords": [
+      "build the pyramid codes",
+      "build the pyramid roblox codes",
+      "build the pyramid expired codes"
+    ],
+    "primaryKeyword": "build the pyramid codes",
+    "secondaryKeywords": [
+      "build the pyramid roblox codes",
+      "build the pyramid expired codes"
+    ],
+    "searchIntent": "Get the latest Build the Pyramid codes for Roblox, current rewards, expired codes, redemption steps and where new Janitors Studios codes are posted.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roblox player guide",
+      "heading": "Build the Pyramid Codes",
+      "lead": "The October 1, 2026 Build the Pyramid codes list includes SUNGOD, WELCOME, FREECODE, UPDATE15 and SORRYFORUPDATEBUG. Enter them in the game’s Codes menu for Coins, Speed or Strength; rewards and availability can change."
+    },
+    "sections": [
+      {
+        "id": "working-codes",
+        "heading": "Working Build the Pyramid Codes",
+        "paragraphs": [
+          "Checked Oct 1, 2026. SUNGOD is the newest code in this list. The table shows the full reward for each active entry, so you can decide which boosts to claim before your next delivery run."
+        ],
+        "table": {
+          "caption": "Active codes — October 1, 2026",
+          "columns": [
+            "Code",
+            "Reward",
+            "Status"
+          ],
+          "rows": [
+            [
+              "SUNGOD",
+              "25,000 Coins",
+              "Active in Oct 1 list"
+            ],
+            [
+              "WELCOME",
+              "500 Walk Speed + 500 Strength",
+              "Active in Oct 1 list"
+            ],
+            [
+              "FREECODE",
+              "500 Coins",
+              "Active in Oct 1 list"
+            ],
+            [
+              "UPDATE15",
+              "50,000 Coins + 25,000 Speed + 25,000 Strength",
+              "Active in Oct 1 list"
+            ],
+            [
+              "SORRYFORUPDATEBUG",
+              "2,500 Coins",
+              "Active in Oct 1 list"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "expired-codes",
+        "heading": "Expired Build the Pyramid Codes",
+        "paragraphs": [
+          "UPGRADES5K, UPANDCOMINGPC1 and DISCORD2K are inactive in the October 1 list. Keep these separate from the active entries: an old announcement can still circulate after its reward stops being available. Repeatedly entering an inactive code will not turn it back into a working one."
+        ],
+        "subsections": [
+          {
+            "heading": "Inactive entries",
+            "paragraphs": [
+              "These codes are listed for recognition rather than redemption. No rewards are promised for expired entries."
+            ],
+            "bullets": [
+              "UPGRADES5K",
+              "UPANDCOMINGPC1",
+              "DISCORD2K"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "redeem",
+        "heading": "How to Redeem Codes",
+        "paragraphs": [
+          "Redemption happens inside the Roblox experience. This guide does not ask for your account details and has no form for claiming rewards. Open the game first, then use its own redemption control."
+        ],
+        "steps": [
+          {
+            "heading": "Launch the game",
+            "description": "Open Build the Pyramid! on Roblox and join an available server. Wait for the main game interface to appear before opening another panel."
+          },
+          {
+            "heading": "Open Codes",
+            "description": "Use the CODES sign near the block area, or the codes control beside the settings cog near the top-left of the screen. The exact layout can change after updates."
+          },
+          {
+            "heading": "Enter one code",
+            "description": "Copy one entry from the active table and paste only the code into the input box. Remove spaces before or after it and preserve the displayed capitalization."
+          },
+          {
+            "heading": "Press Redeem",
+            "description": "Submit the code and read the game’s response. Check the matching Coin, Speed or Strength value before trying the next entry. Repeat separately for each code."
+          }
+        ]
+      },
+      {
+        "id": "code-problems",
+        "heading": "Why a Code May Not Work",
+        "paragraphs": [
+          "Start with the text itself. A copied dash, a reward amount or an extra space is not part of the code. SORRYFORUPDATEBUG is a single continuous string; SUNGOD should not include quotation marks. Paste the exact entry again once before treating it as unavailable.",
+          "A code can expire, reach a claim cap, or have already been redeemed on your account. The date on this list tells you when the entries were current; it does not reserve a reward. If several entries fail immediately after a game update, rejoin and try the current menu in a fresh server.",
+          "Read the response before spending time on another attempt. If the game says you already claimed a reward, check your stats rather than expecting a second payout. If it no longer accepts the code, move on to regular play and check for a newer announcement. Avoid anyone offering to reactivate expired codes in exchange for Robux."
+        ]
+      },
+      {
+        "id": "new-codes",
+        "heading": "Where New Codes Usually Appear",
+        "paragraphs": [
+          "Follow Janitors Studios community announcements for new releases and update news. Discord can be useful for finding those announcements, but there is no guaranteed daily or weekly release schedule. A milestone name in an old code also does not prove that a similarly named future code exists.",
+          "When you find a new post, check the game name, the publication date and the exact string. Community messages may discuss several experiences. A screenshot without a date is less useful than a current announcement that you can open yourself. Use the community links below to find the right destination."
+        ],
+        "links": [
+          {
+            "slug": "discord",
+            "label": "Find the Janitors Studios community"
+          }
+        ]
+      },
+      {
+        "id": "reward-use",
+        "heading": "What Code Rewards Help With",
+        "paragraphs": [
+          "Coins help pay for the upgrade lines that reduce repeated pickup and placement actions. A Coin reward is a chance to fix the slowest part of your route, rather than a reason to buy every affordable option immediately. Read the next upgrade price and compare it with what slows down your actual trips.",
+          "Speed helps movement between the block area and the pyramid. Strength supports carrying capacity. After a stat reward, take another delivery run: your old training priority may no longer fit. A larger load can make placement feel slower, while faster travel can reveal that collection takes most of the time.",
+          "Codes supplement the normal building loop. You can keep earning Coins, improving upgrades and training when there are no new entries. The Free Gift is a separate task-based claim, so redeeming WELCOME or UPDATE15 does not replace checking that panel."
+        ],
+        "links": [
+          {
+            "slug": "upgrades",
+            "label": "Choose an upgrade for your Coin reward"
+          },
+          {
+            "slug": "training",
+            "label": "Balance your Speed and Strength"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the newest Build the Pyramid codes?",
+        "answer": "SUNGOD is the newest entry in the October 1, 2026 list and gives 25,000 Coins. The active table also includes WELCOME, FREECODE, UPDATE15 and SORRYFORUPDATEBUG."
+      },
+      {
+        "question": "Are Build the Pyramid codes case-sensitive?",
+        "answer": "Preserve the capitalization shown in the table to avoid an unnecessary mismatch. This guide does not assume that every version of the redemption system ignores letter case."
+      },
+      {
+        "question": "Where is the code redemption button?",
+        "answer": "Look near the top-left settings area, or use the CODES sign near the block area. Open the panel in the Roblox game and enter one code at a time."
+      },
+      {
+        "question": "Why does my code not work?",
+        "answer": "Check spelling and spaces, then consider expiry, a claim cap or a previous redemption. Rejoining after an update can help if your current game interface has not refreshed."
+      },
+      {
+        "question": "How often are new codes released?",
+        "answer": "There is no fixed release schedule to rely on. Watch Janitors Studios announcements and check the date on any list before using it."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "guide",
+      "upgrades",
+      "training",
+      "discord"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "guide",
+    "pageType": "guide",
+    "navLabel": "Guide",
+    "title": "Build the Pyramid Beginner Guide & Progression",
+    "description": "Start Build the Pyramid on Roblox with a clear first-session route: claim the free gift, haul blocks, earn Coins, buy upgrades and train efficiently.",
+    "keywords": [
+      "build the pyramid guide",
+      "build the pyramid beginner guide",
+      "build the pyramid walkthrough"
+    ],
+    "primaryKeyword": "build the pyramid guide",
+    "secondaryKeywords": [
+      "build the pyramid beginner guide",
+      "build the pyramid walkthrough"
+    ],
+    "searchIntent": "Start Build the Pyramid on Roblox with a clear first-session route: claim the free gift, haul blocks, earn Coins, buy upgrades and train efficiently.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roblox player guide",
+      "heading": "Build the Pyramid Beginner Guide",
+      "lead": "Start by claiming the Free Gift, then learn pickup → carry → place. Earn Coins, buy practical upgrades, train your limiting stat and use stronger gym areas as they open. Check current codes for an extra boost; you can follow the basic progression without buying a pass."
+    },
+    "sections": [
+      {
+        "id": "core-loop",
+        "heading": "Build the Pyramid Core Loop",
+        "paragraphs": [
+          "Build the Pyramid! is a shared construction game. Your first job is to understand one successful delivery, not to finish the entire monument alone. Follow the game’s prompts and watch both your own carrying display and the server’s construction progress."
+        ],
+        "subsections": [
+          {
+            "heading": "Pick Up Blocks",
+            "paragraphs": [
+              "Collect blocks at the block area using the on-screen interaction prompt. Learn what a full load looks like before making a longer trip. Pickup efficiency and carrying capacity are different: one controls collection actions, while the other controls how much you can take."
+            ]
+          },
+          {
+            "heading": "Carry Them to the Shared Pyramid",
+            "paragraphs": [
+              "Bring your load to the shared build site. Use the route shown in the game and keep an eye on where placement is currently accepted. Travel is one part of the cycle, so a fast walk does not solve slow collection or unloading."
+            ]
+          },
+          {
+            "heading": "Place Blocks and Earn Coins",
+            "paragraphs": [
+              "Deposit blocks in the active placement area to contribute to construction and earn Coins. Then return for another load. Treat your first few trips as a way to spot which part of that cycle needs improvement."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "first-session",
+        "heading": "Your First 10-15 Minutes",
+        "paragraphs": [
+          "Use this as a first-session checklist, not a completion-time promise. Server progress, your device and time spent reading panels can change the pace. You can pause at any step and return to it after another delivery."
+        ],
+        "steps": [
+          {
+            "heading": "Check the Free Gift",
+            "description": "Open the gift panel and complete its displayed tasks. Claim the reward before settling into a long training session."
+          },
+          {
+            "heading": "Make a full delivery",
+            "description": "Pick up blocks, carry them to the pyramid and place them. Learn the active prompts and placement area before optimizing."
+          },
+          {
+            "heading": "Check your Coins",
+            "description": "After a few trips, look at the upgrade menu. Compare your balance with the next displayed cost instead of guessing."
+          },
+          {
+            "heading": "Improve one action",
+            "description": "Bulk Pickup is a useful first purchase when filling your load is slow. Follow with Bulk Place if unloading becomes the delay."
+          },
+          {
+            "heading": "Train the bottleneck",
+            "description": "Train Strength if you need more capacity, or Speed if travel is taking most of the trip. Test another run afterward."
+          },
+          {
+            "heading": "Revisit gym access",
+            "description": "As pyramid progression opens stronger training areas, read their signs and use the best one you can access."
+          },
+          {
+            "heading": "Redeem current codes",
+            "description": "Check the dated code list, claim available rewards and reassess your next upgrade or training choice."
+          }
+        ]
+      },
+      {
+        "id": "gift-first",
+        "heading": "Claim the Free Gift Before Grinding",
+        "paragraphs": [
+          "The October 1 offer asks you to like and favorite the experience and join Janitors Studios on Roblox. Its reported reward is +1,500 Speed and +1,500 Strength. Read the live panel before claiming because the offer can change.",
+          "Complete the Roblox community step with the same account that is playing. Discord membership is a different action and does not replace joining the creator community. The dedicated gift guide explains the tasks and what to check if the panel does not refresh."
+        ],
+        "links": [
+          {
+            "slug": "free-gift",
+            "label": "Complete the Free Gift tasks"
+          }
+        ]
+      },
+      {
+        "id": "first-coins",
+        "heading": "Spend Your First Coins Wisely",
+        "paragraphs": [
+          "Bulk Pickup, Bulk Place and Placement Range improve different moments of your delivery. Start with Bulk Pickup when collection is slow; pair it with Bulk Place as you carry larger loads. Add Placement Range when reaching a valid placement spot becomes awkward.",
+          "The early order is a practical suggestion, not a rule that every player must follow forever. If a code gives you a large Coin balance, still read the next costs. Buy for a visible problem, make another run and see whether the purchase helped."
+        ],
+        "links": [
+          {
+            "slug": "upgrades",
+            "label": "Compare the three Coin upgrades"
+          }
+        ]
+      },
+      {
+        "id": "train",
+        "heading": "Train Speed and Strength",
+        "paragraphs": [
+          "Strength supports a larger load, while Speed helps you move between collection and construction. For many fresh accounts, carrying capacity is an early limit. After a gift or code reward, however, your biggest delay may be repeated actions or travel instead.",
+          "Use short training visits between deliveries to learn what each stat changes. Check the live requirements on gym areas as you progress. You do not need a memorized multiplier chart to choose the strongest area that is actually available to your account."
+        ],
+        "links": [
+          {
+            "slug": "training",
+            "label": "Pick the stat that slows your route"
+          }
+        ]
+      },
+      {
+        "id": "codes",
+        "heading": "Use Codes for an Early Boost",
+        "paragraphs": [
+          "Redeem codes through the game’s Codes menu, not through a website login form. Rewards can include Coins or stats, and an old list can include entries that have expired. Use the current dated table and copy each string exactly."
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "Check the October code list"
+          }
+        ]
+      },
+      {
+        "id": "server-progress",
+        "heading": "What Happens as Your Server Progresses",
+        "paragraphs": [
+          "Everyone contributes toward a shared build goal. As the pyramid develops, the place where your next delivery belongs can change. Check the active area rather than walking to an old spot out of habit. A player who is still learning can contribute without matching someone else’s load size.",
+          "Completing pyramids connects construction to stronger training progression. Read the game’s completion messages and gym requirements as they appear. The build target can change with updates or projects, so use the live progress display instead of treating one block total as permanent."
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Beginner Mistakes to Avoid",
+        "paragraphs": [
+          "Skipping the gift, saving every Coin indefinitely, and training only one stat can all leave an obvious part of the loop unimproved. Before another long grind, ask whether collection, travel, capacity or unloading is the current delay.",
+          "Avoid buying a paid shortcut before trying the free progression. A pass can save a requirement or change a named feature, but it does not teach the route. Also avoid following a stale code screenshot or assuming that another player’s upgrade order fits your account."
+        ],
+        "links": [
+          {
+            "slug": "gamepasses",
+            "label": "Understand optional paid shortcuts"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you play Build the Pyramid?",
+        "answer": "Collect blocks, carry them to the shared pyramid and place them to earn Coins. Improve the delivery cycle through upgrades and Speed/Strength training."
+      },
+      {
+        "question": "What should I do first?",
+        "answer": "Check the Free Gift, complete one delivery and learn the live placement prompts. Then choose an upgrade or training stat based on the part that slows you down."
+      },
+      {
+        "question": "How do you get Coins?",
+        "answer": "Place delivered blocks at the pyramid. Some active codes also grant Coins, but normal construction keeps your upgrade progression moving."
+      },
+      {
+        "question": "What should I upgrade first?",
+        "answer": "Bulk Pickup is a useful early choice when collection takes too many actions. Bulk Place usually follows, with Placement Range added when reach is inconvenient."
+      },
+      {
+        "question": "Should I train Speed or Strength?",
+        "answer": "Choose Strength for limited carrying capacity and Speed for slow movement. Reassess after a reward or upgrade instead of training one stat automatically."
+      },
+      {
+        "question": "Can I progress without Robux?",
+        "answer": "Yes. Building, Coin upgrades and regular gym progression form the basic route; gamepasses are optional shortcuts."
+      },
+      {
+        "question": "Where can I find working codes?",
+        "answer": "Use the Codes page for the dated active list and redemption steps, then follow Janitors Studios announcements for new releases."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "free-gift",
+      "upgrades",
+      "training",
+      "codes",
+      "gamepasses"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "upgrades",
+    "pageType": "guide",
+    "navLabel": "Upgrades",
+    "title": "Build the Pyramid Upgrades & Best Buy Order",
+    "description": "See what Bulk Pickup, Bulk Place and Placement Range do in Build the Pyramid, what to buy first, how Coins work and when each upgrade helps.",
+    "keywords": [
+      "build the pyramid upgrades",
+      "build the pyramid best upgrades",
+      "build the pyramid upgrade order"
+    ],
+    "primaryKeyword": "build the pyramid upgrades",
+    "secondaryKeywords": [
+      "build the pyramid best upgrades",
+      "build the pyramid upgrade order"
+    ],
+    "searchIntent": "See what Bulk Pickup, Bulk Place and Placement Range do in Build the Pyramid, what to buy first, how Coins work and when each upgrade helps.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roblox player guide",
+      "heading": "Build the Pyramid Upgrades",
+      "lead": "The three Build the Pyramid upgrades are Bulk Pickup, Bulk Place and Placement Range. A useful early order is Bulk Pickup → Bulk Place → Placement Range, then choose the next purchase according to your current delivery bottleneck."
+    },
+    "sections": [
+      {
+        "id": "all-upgrades",
+        "heading": "All Build the Pyramid Upgrades",
+        "paragraphs": [
+          "Checked Oct 1, 2026. These are the early first-step costs, not a price list for every later level. Read the next cost shown in your own upgrade menu before spending: the next purchase may cost more than the first."
+        ],
+        "table": {
+          "caption": "First-step upgrade snapshot — October 1, 2026",
+          "columns": [
+            "Upgrade",
+            "What it changes",
+            "First-step cost",
+            "Best use"
+          ],
+          "rows": [
+            [
+              "Bulk Pickup",
+              "Blocks collected per pickup action",
+              "50 Coins",
+              "Reduce repeated collection actions"
+            ],
+            [
+              "Bulk Place",
+              "Blocks deposited per placement action",
+              "50 Coins",
+              "Unload a larger load with fewer actions"
+            ],
+            [
+              "Placement Range",
+              "Reach for valid block placement",
+              "25 Coins",
+              "Make the placement position more convenient"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "order",
+        "heading": "Best Upgrade Order for New Players",
+        "paragraphs": [
+          "Begin with Bulk Pickup if filling your carrying allowance takes many repeated grabs. Once you collect a load more easily, Bulk Place helps stop unloading from becoming the next delay. Placement Range improves reach, so it fits naturally after both ends of the delivery cycle feel manageable.",
+          "That order is a starting point, not an official prescription. A player who already received substantial Strength from a reward may have a large load and urgently need faster placing. A player who spends time moving into position may notice range first. Buy for the situation you can observe.",
+          "Compare the price of the next level with the time spent on that action. You do not need a spreadsheet or an invented efficiency percentage: make a delivery, notice the slow part and consider the purchase that changes it. Repeat this check as your stats and the pyramid change."
+        ]
+      },
+      {
+        "id": "pickup",
+        "heading": "Bulk Pickup Explained",
+        "paragraphs": [
+          "Bulk Pickup changes how many blocks you collect in a pickup action. It makes the collection stage less repetitive. It does not replace Strength, which supports the total size of the load you can carry. A bigger capacity can still take time to fill if collection efficiency remains low.",
+          "This makes pickup a useful partner for early Strength rewards. When you can carry more, you also need a comfortable way to collect that load. If collection already feels brief and most of the run is spent elsewhere, consider the other upgrade lines before buying another pickup level."
+        ]
+      },
+      {
+        "id": "place",
+        "heading": "Bulk Place Explained",
+        "paragraphs": [
+          "Bulk Place changes the number of blocks deposited per placement action. Its value becomes clear when you arrive with a load that takes repeated interactions to empty. More capacity helps deliveries, but it can also expose a slow unloading stage.",
+          "Stand in the game’s valid placement area before judging this upgrade. Being outside the accepted area is a positioning issue, not proof that your purchase failed. After upgrading, try the same delivery route and compare how much attention unloading needs."
+        ]
+      },
+      {
+        "id": "range",
+        "heading": "Placement Range Explained",
+        "paragraphs": [
+          "Placement Range widens the reach available for placing blocks. It helps with convenience near the active construction area, especially when finding a comfortable position takes extra movement. It does not mean you can ignore the game’s valid placement zone entirely.",
+          "The first-step snapshot is 25 Coins, but a lower opening price does not automatically make range the best purchase. If you spend most of the trip collecting or unloading, the two bulk upgrades address those actions more directly. Add range when reach is a real problem."
+        ]
+      },
+      {
+        "id": "coins",
+        "heading": "How to Earn and Spend Coins",
+        "paragraphs": [
+          "Deliver blocks and place them at the pyramid to earn Coins through the core building loop. Current codes can also provide a Coin boost. Treat that extra balance as an opportunity to improve your routine rather than a reason to stop learning how ordinary earnings work.",
+          "Check your balance, the next price and the upgrade name before confirming a purchase. After spending, take another run. If the slow part moved from pickup to placement, that is useful feedback for your next decision. Later costs, caps and maximum levels should come from the live menu."
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "Find codes with Coin rewards"
+          },
+          {
+            "slug": "guide",
+            "label": "Review the beginner delivery route"
+          }
+        ]
+      },
+      {
+        "id": "gym",
+        "heading": "Upgrades vs Gym Training",
+        "paragraphs": [
+          "Coin upgrades improve action efficiency and reach. Gym training raises Speed and Strength for movement and carrying performance. These systems complement each other, but they solve different delays: faster walking cannot make each pickup action collect more blocks.",
+          "Likewise, buying Bulk Pickup cannot by itself create the carrying allowance provided by Strength. Think of the route as capacity, collection, travel and placement. Match your next change to the part that is limiting the whole cycle, then test again."
+        ],
+        "links": [
+          {
+            "slug": "training",
+            "label": "Connect upgrades with gym training"
+          }
+        ]
+      },
+      {
+        "id": "passes",
+        "heading": "Upgrades vs Gamepasses",
+        "paragraphs": [
+          "The three regular upgrade lines use Coins from gameplay. Gamepasses are separate Robux purchases with named benefits or access shortcuts. A pass price should not be confused with an upgrade cost, and an upgrade is not a paid gym unlock.",
+          "Try the free loop before deciding whether a shortcut matters to you. If you consider a pass, read its live Roblox description and checkout separately. Paid options can change, while your next sensible Coin purchase still depends on the action that slows the route."
+        ],
+        "links": [
+          {
+            "slug": "gamepasses",
+            "label": "Compare optional gamepasses"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the best Build the Pyramid upgrade?",
+        "answer": "The best next upgrade fixes your current delay. Bulk Pickup is a useful early default, but Bulk Place or Placement Range can be more helpful when unloading or positioning is the problem."
+      },
+      {
+        "question": "Should I buy Bulk Pickup or Bulk Place first?",
+        "answer": "Usually start with Bulk Pickup for slow collection, then Bulk Place as larger loads take longer to unload. Reverse that priority if placement is already the obvious bottleneck."
+      },
+      {
+        "question": "What does Placement Range do?",
+        "answer": "It improves your reach for valid placement. Use it to make positioning more comfortable; it does not replace collection efficiency or carrying capacity."
+      },
+      {
+        "question": "How do I get Coins?",
+        "answer": "Place delivered blocks on the shared pyramid. Some codes also award Coins, which you can spend on the regular upgrade lines."
+      },
+      {
+        "question": "Do Coins unlock better gyms?",
+        "answer": "The regular Coin upgrade menu is separate from gym access. Gym progression is tied to pyramid progression, with named Robux passes available for some access shortcuts."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "guide",
+      "training",
+      "gamepasses",
+      "codes"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "training",
+    "pageType": "guide",
+    "navLabel": "Training",
+    "title": "Build the Pyramid Training & Gym Guide",
+    "description": "Learn Build the Pyramid training: Speed vs Strength, gym progression, stronger training zones, upgrade synergy and a practical early-game routine.",
+    "keywords": [
+      "build the pyramid training",
+      "build the pyramid gym",
+      "build the pyramid speed",
+      "build the pyramid strength"
+    ],
+    "primaryKeyword": "build the pyramid training",
+    "secondaryKeywords": [
+      "build the pyramid gym",
+      "build the pyramid speed",
+      "build the pyramid strength"
+    ],
+    "searchIntent": "Learn Build the Pyramid training: Speed vs Strength, gym progression, stronger training zones, upgrade synergy and a practical early-game routine.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roblox player guide",
+      "heading": "Build the Pyramid Training & Gym Guide",
+      "lead": "Speed improves movement; Strength supports how much you can carry. Train the stat that slows your delivery loop and use the best gym area you have unlocked. Strength is often an early bottleneck, but rewards and upgrades can quickly change that priority."
+    },
+    "sections": [
+      {
+        "id": "stats",
+        "heading": "Speed vs Strength",
+        "paragraphs": [
+          "Build the Pyramid training improves two different parts of hauling. Choose a stat from what happens during a real delivery, rather than assuming the largest number on your display is always the most useful one to increase."
+        ],
+        "table": {
+          "caption": "Choose the stat for your current bottleneck",
+          "columns": [
+            "Stat",
+            "What it affects",
+            "When to prioritize it"
+          ],
+          "rows": [
+            [
+              "Speed",
+              "Movement between the block area and pyramid",
+              "Travel takes most of the delivery time"
+            ],
+            [
+              "Strength",
+              "Carrying capacity for a load of blocks",
+              "You reach capacity quickly and make many small trips"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "gym-basics",
+        "heading": "How Gym Training Works",
+        "paragraphs": [
+          "The gym provides equipment for each stat. The treadmill is the Speed station, while the strength station uses a bench press. Use the appropriate station and watch the matching stat display to confirm which value is increasing. Follow the live interaction prompt on your device.",
+          "Before settling into a workout, read the area’s access requirement and training label. An impressive sign does not help if the area is still locked for your account. Exact gains and unlock values can change, so the station’s current display is more useful than an old screenshot.",
+          "After a training visit, return to building. The point of improving a stat is to make your hauling routine better. If you remain slow at collecting or emptying a load, check your Coin upgrades rather than repeatedly training a stat that no longer solves the delay."
+        ]
+      },
+      {
+        "id": "priority",
+        "heading": "Which Stat Should You Train First?",
+        "paragraphs": [
+          "For a new player with a small carrying allowance, Strength is often the practical first focus. Claim the Free Gift first, however, because its stat boost can change the situation immediately. Do not plan a long workout around the numbers you had before claiming."
+        ],
+        "subsections": [
+          {
+            "heading": "Your load fills too quickly",
+            "paragraphs": [
+              "Prioritize Strength when you keep reaching capacity with a small load and then need another trip. Follow up with Bulk Pickup if the larger allowance takes too many interactions to fill."
+            ]
+          },
+          {
+            "heading": "Walking takes most of the run",
+            "paragraphs": [
+              "Prioritize Speed when collecting and placing are already comfortable but travel dominates. Keep enough Strength for useful deliveries; a fast route with tiny loads can still feel inefficient."
+            ]
+          },
+          {
+            "heading": "Both parts feel balanced",
+            "paragraphs": [
+              "Alternate according to what slows the next run. There is no need to force identical Speed and Strength totals, because they affect different parts of the delivery cycle."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "gym-progression",
+        "heading": "Gym Progression and Better Training Areas",
+        "paragraphs": [
+          "Completing pyramids connects shared construction with stronger training access. As you progress, revisit the gym and read the requirements on the areas you can use. Choose the strongest available training area rather than staying at an earlier station out of habit.",
+          "The game has multiple multiplier-labelled gym areas. A multiplier describes that training area; it is not a permanent stat value you automatically own just by walking past its sign. Access requirements and available options should be checked in the current game.",
+          "If an area is still locked, continue regular construction toward its displayed requirement. Optional Gym skip passes offer another route for specific areas, but you can learn the basic training routine without buying one. No exact completion threshold is needed to decide where you can train right now."
+        ]
+      },
+      {
+        "id": "synergy",
+        "heading": "Training + Upgrades Work Together",
+        "paragraphs": [
+          "Strength creates room for a larger load. Bulk Pickup helps collect it, and Bulk Place helps unload it. Speed reduces the movement part of the trip, while Placement Range helps you position for deposits. Treat these as connected decisions rather than unrelated menus.",
+          "For example, a Strength boost can leave you carrying much more while collection still uses repeated small actions. More Strength again may not be the most useful response. Improve pickup or placement if those stages now absorb most of your attention."
+        ],
+        "links": [
+          {
+            "slug": "upgrades",
+            "label": "Match training with the three upgrades"
+          }
+        ]
+      },
+      {
+        "id": "early-gift",
+        "heading": "Free Gift and Early Training",
+        "paragraphs": [
+          "The October 1 gift snapshot gives +1,500 Speed and +1,500 Strength after its like, favorite and Roblox community tasks. Check the live panel for the current amount. This is a separate claim from codes and should be considered before a long early workout.",
+          "Once claimed, make a delivery and inspect your new capacity and movement. Then decide which station is worth your time. A code that also gives stats can justify the same quick reassessment later in your session."
+        ],
+        "links": [
+          {
+            "slug": "free-gift",
+            "label": "Claim the gift before training"
+          },
+          {
+            "slug": "guide",
+            "label": "Follow the first-session route"
+          }
+        ]
+      },
+      {
+        "id": "paid-skips",
+        "heading": "Paid Gym Skips",
+        "paragraphs": [
+          "Gym skip passes unlock specified training areas without the named normal requirement in their descriptions. They are optional, and their prices belong to the Roblox checkout. Read the exact pass description before treating it as access to any other tier.",
+          "A shortcut to a training area does not choose your stat for you. You still need to decide whether movement or capacity limits your route and use the matching equipment. Compare the current pass table only after understanding what the free route already gives you."
+        ],
+        "links": [
+          {
+            "slug": "gamepasses",
+            "label": "Read the dated Gym pass catalogue"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Should I train Speed or Strength first?",
+        "answer": "Train Strength for limited carrying capacity and Speed for slow movement. For many fresh accounts Strength is an early limit, but check again after a gift or code reward."
+      },
+      {
+        "question": "How do I increase Strength?",
+        "answer": "Use the gym’s strength station and confirm that the Strength display increases. Claim available task rewards or codes separately when they provide that stat."
+      },
+      {
+        "question": "How do I increase Speed?",
+        "answer": "Use the Speed treadmill and check the matching display. Choose the best accessible training area and reassess travel after returning to building."
+      },
+      {
+        "question": "How do I unlock better gyms?",
+        "answer": "Read each area’s live requirement and progress through pyramid completions. Some named passes can skip specific requirements, but regular training progression is available without them."
+      },
+      {
+        "question": "Do upgrades replace training?",
+        "answer": "No. Coin upgrades change collection, placement or reach, while training affects movement and carrying capacity. Both can improve a different stage of the route."
+      },
+      {
+        "question": "Can gamepasses skip gym requirements?",
+        "answer": "The numbered Gym pass descriptions specify which pyramid requirement they skip. Check the live pass before buying and do not assume that it includes other tiers."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "guide",
+      "upgrades",
+      "free-gift",
+      "gamepasses"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "gamepasses",
+    "pageType": "list",
+    "navLabel": "Gamepasses",
+    "title": "Build the Pyramid Gamepasses & Gym Skips",
+    "description": "Compare Build the Pyramid gamepasses, Gym skip passes and Pharaoh access, with current snapshot prices, unlock requirements and purchase tips.",
+    "keywords": [
+      "build the pyramid gamepasses",
+      "build the pyramid gym passes",
+      "build the pyramid pharaoh pass"
+    ],
+    "primaryKeyword": "build the pyramid gamepasses",
+    "secondaryKeywords": [
+      "build the pyramid gym passes",
+      "build the pyramid pharaoh pass"
+    ],
+    "searchIntent": "Compare Build the Pyramid gamepasses, Gym skip passes and Pharaoh access, with current snapshot prices, unlock requirements and purchase tips.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roblox player guide",
+      "heading": "Build the Pyramid Gamepasses",
+      "lead": "Build the Pyramid gamepasses are optional paid shortcuts and features. The basic building and training progression can be played without buying a pass. The Roblox catalogue below was checked Oct 1, 2026; confirm the live description and checkout price before spending."
+    },
+    "sections": [
+      {
+        "id": "catalogue",
+        "heading": "Current Build the Pyramid Gamepasses",
+        "paragraphs": [
+          "Checked Oct 1, 2026 against the Roblox pass catalogue. All entries below were listed for sale at that check. Prices are a dated Robux snapshot and may differ when you open Roblox; the checkout is the final price to read before a purchase."
+        ],
+        "table": {
+          "caption": "Roblox catalogue — checked October 1, 2026",
+          "columns": [
+            "Pass",
+            "Robux snapshot",
+            "Listed benefit or requirement skipped"
+          ],
+          "rows": [
+            [
+              "Unlock 2x Gym",
+              "29",
+              "Skips 1 Pyramid requirement"
+            ],
+            [
+              "Unlock 5x Gym",
+              "99",
+              "Skips 3 Pyramids requirement"
+            ],
+            [
+              "Unlock 10x Gym",
+              "199",
+              "Skips 8 Pyramids requirement"
+            ],
+            [
+              "Unlock 25x Gym",
+              "399",
+              "Skips 15 Pyramids requirement"
+            ],
+            [
+              "Unlock 50x Gym",
+              "699",
+              "Skips 25 Pyramids requirement"
+            ],
+            [
+              "Unlock 75x Gym",
+              "899",
+              "Skips 50 Pyramids requirement"
+            ],
+            [
+              "Unlock 100x Gym",
+              "1,099",
+              "Skips 100 Pyramids requirement"
+            ],
+            [
+              "Unlock ADMIN Gym",
+              "1,499",
+              "Unlocks the Admin gym"
+            ],
+            [
+              "Unlock Pharaoh",
+              "149",
+              "2x pyramids and instafill"
+            ],
+            [
+              "Sun God",
+              "1,200",
+              "4x pyramids, ultra-quick grab and ultra-quick place"
+            ]
+          ]
+        },
+        "externalLinks": [
+          {
+            "url": "https://www.roblox.com/games/123720558354386#!/store",
+            "label": "View the live Roblox store (external)"
+          }
+        ]
+      },
+      {
+        "id": "gym-skips",
+        "heading": "What the Gym Skip Passes Do",
+        "paragraphs": [
+          "The numbered Gym passes unlock the area named in the pass and skip the pyramid requirement stated in its description. For example, Unlock 10x Gym lists the 8 Pyramids requirement, while Unlock 25x Gym lists 15. The table preserves those descriptions as a dated reference.",
+          "A gym name describes the area you are buying access to. Do not read it as a promise that every action in the game earns that multiplier, or that buying a higher tier grants every lower one. Check the named destination and its equipment before choosing a pass.",
+          "If your account already meets an area’s normal access requirement, compare what the pass would add before purchasing. You may already be able to train there through ordinary progression. The relevant question is whether you need the access shortcut, not simply whether the multiplier label is large."
+        ]
+      },
+      {
+        "id": "pharaoh",
+        "heading": "Pharaoh Pass",
+        "paragraphs": [
+          "Unlock Pharaoh was listed at 149 Robux on October 1, 2026. Its current catalogue description states “2x pyramids and instafill.” Read that exact benefit wording on Roblox before deciding whether it suits your building routine.",
+          "The catalogue’s short description does not justify inventing extra training boosts, Coin bonuses or inclusion rules. In particular, do not assume Pharaoh grants access to every Gym area. Compare it with the separately named Gym unlocks if your main goal is training access."
+        ]
+      },
+      {
+        "id": "sun-god",
+        "heading": "Sun God Pass",
+        "paragraphs": [
+          "The current catalogue also includes Sun God at 1,200 Robux, with the description “4x pyramids, ultra-quick grab and ultra-quick place.” This is a paid pass, separate from the redeemable SUNGOD code that gives Coins. The similar name does not make one a requirement for the other.",
+          "Read the live Sun God listing if you want those named effects. The catalogue does not establish how its effects combine with Pharaoh or other purchases, so do not build a spending plan around an assumed stacking rule."
+        ]
+      },
+      {
+        "id": "admin",
+        "heading": "Admin Gym Access",
+        "paragraphs": [
+          "Unlock ADMIN Gym was listed at 1,499 Robux and says it unlocks the Admin gym. That is an access description, not a promise of moderation powers, command privileges or ownership of the experience.",
+          "Check the actual gym and listing before buying. The word Admin in a product name should not be treated as permission to manage other players. This guide lists the benefit supplied by the creator rather than adding claims about hidden abilities."
+        ]
+      },
+      {
+        "id": "need-pass",
+        "heading": "Do You Need a Gamepass?",
+        "paragraphs": [
+          "No pass is required for the basic hauling loop. Start with the Free Gift, learn a few deliveries, spend Coins on relevant upgrades and try the accessible gym. That gives you a clearer idea of whether skipping an access requirement is worth anything to your play style.",
+          "A paid shortcut may suit someone who values reaching a named training area sooner. Another player may enjoy building toward the requirement normally. Neither preference makes a pass essential. Look at the exact feature you want, the live price and the time you expect to spend playing.",
+          "Before confirming, check the experience name, the pass name, its creator and the currency shown at checkout. Avoid buying from a reposted screenshot alone. This guide has no purchase form and does not ask for Roblox credentials."
+        ],
+        "subsections": [
+          {
+            "heading": "Before you spend",
+            "paragraphs": [
+              "Use the live Roblox listing for the final decision."
+            ],
+            "bullets": [
+              "Identify the exact access or feature you want.",
+              "Compare it with your current free progression.",
+              "Read the current description and checkout price.",
+              "Do not assume tier inclusion or stacking benefits."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "free-route",
+        "heading": "Free Progression vs Paid Shortcuts",
+        "paragraphs": [
+          "The free route uses construction to earn Coins and advance pyramid progression. Upgrades improve pickup, placement and reach, while training raises movement and carrying performance. Those choices still matter when you decide not to buy anything.",
+          "A pass is a separate decision about a named shortcut or feature. It should not replace learning where to collect, how to place and which stat limits the route. For a new account, those basics are often the most useful next step."
+        ],
+        "links": [
+          {
+            "slug": "guide",
+            "label": "Learn the free progression route"
+          },
+          {
+            "slug": "training",
+            "label": "Understand regular gym progression"
+          },
+          {
+            "slug": "upgrades",
+            "label": "Improve delivery with Coins"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Build the Pyramid require Robux?",
+        "answer": "No. The basic building loop, Coin upgrades and ordinary training progression can be played without purchasing a gamepass."
+      },
+      {
+        "question": "What do the Gym passes unlock?",
+        "answer": "They unlock the named gym and skip the requirement stated in the current pass description. Use the dated table as a reference and confirm the live listing."
+      },
+      {
+        "question": "What does the Pharaoh pass do?",
+        "answer": "The October 1, 2026 catalogue description for Unlock Pharaoh says “2x pyramids and instafill.” Its listed price at that check was 149 Robux."
+      },
+      {
+        "question": "Can I play without gamepasses?",
+        "answer": "Yes. Follow the beginner route, use regular upgrades and train in available areas. Paid options are optional shortcuts and features."
+      },
+      {
+        "question": "Is the Sun God pass the same as the SUNGOD code?",
+        "answer": "No. Sun God is a paid catalogue pass. SUNGOD is a text code redeemed in the Codes menu for the reward shown on the dated Codes page."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "guide",
+      "training",
+      "upgrades"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "free-gift",
+    "pageType": "guide",
+    "navLabel": "Free Gift",
+    "title": "Build the Pyramid Free Gift Guide",
+    "description": "Learn how to claim the Build the Pyramid Free Gift, its current requirements and reward, plus fixes when the claim button or group step does not work.",
+    "keywords": [
+      "build the pyramid free gift",
+      "build the pyramid free gift reward",
+      "how to claim build the pyramid free gift"
+    ],
+    "primaryKeyword": "build the pyramid free gift",
+    "secondaryKeywords": [
+      "build the pyramid free gift reward",
+      "how to claim build the pyramid free gift"
+    ],
+    "searchIntent": "Learn how to claim the Build the Pyramid Free Gift, its current requirements and reward, plus fixes when the claim button or group step does not work.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roblox player guide",
+      "heading": "Build the Pyramid Free Gift",
+      "lead": "The Free Gift is separate from codes. The October 1, 2026 offer asks you to like the experience, favorite it and join Janitors Studios on Roblox, then claim +1,500 Speed and +1,500 Strength. Read the live gift panel if the game changes."
+    },
+    "sections": [
+      {
+        "id": "claim",
+        "heading": "How to Claim the Free Gift",
+        "paragraphs": [
+          "Use the in-game Free Gift panel and the Roblox experience page. Complete the tasks on the same Roblox account that is playing, then return to the panel to claim. You do not need to type a gift code into the Codes menu."
+        ],
+        "steps": [
+          {
+            "heading": "Open the Free Gift panel",
+            "description": "Find the FREE GIFT sign or panel in Build the Pyramid! and read its current task list. Check that you are viewing the gift offer rather than the separate Codes menu."
+          },
+          {
+            "heading": "Like the experience",
+            "description": "Use the like control on the Roblox experience page. If Roblox does not let your account complete the action, read its message and resolve that step there before retrying the gift."
+          },
+          {
+            "heading": "Favorite the experience",
+            "description": "Add the game to favorites on Roblox. A favorite is separate from a like, so complete both actions if the panel lists both."
+          },
+          {
+            "heading": "Join Janitors Studios",
+            "description": "Open the developer community on Roblox and join it with the account you use in the game. Joining a Discord server does not satisfy this Roblox task."
+          },
+          {
+            "heading": "Return and press Claim",
+            "description": "Go back to the gift panel, check the task indicators and press Claim. Inspect your Speed and Strength displays to confirm the reward before moving on."
+          }
+        ],
+        "externalLinks": [
+          {
+            "url": "https://www.roblox.com/games/123720558354386",
+            "label": "Open the Roblox experience (external)"
+          },
+          {
+            "url": "https://www.roblox.com/communities/907940218/Janitors-Studios",
+            "label": "Join Janitors Studios on Roblox (external)"
+          }
+        ]
+      },
+      {
+        "id": "reward",
+        "heading": "Current Free Gift Reward",
+        "paragraphs": [
+          "October 1, 2026 snapshot: +1,500 Speed and +1,500 Strength. This is a one-time task reward in the current offer. The amount and requirements may change after an update, so use the live panel as the final description of what you will receive.",
+          "The reward improves the starting point for movement and carrying. It does not mean every pickup or placement action is automatically optimized. After claiming, try a normal delivery and see whether collection, travel or unloading is now the part that needs attention."
+        ],
+        "table": {
+          "caption": "Free Gift snapshot — October 1, 2026",
+          "columns": [
+            "Reward stat",
+            "Amount"
+          ],
+          "rows": [
+            [
+              "Speed",
+              "+1,500"
+            ],
+            [
+              "Strength",
+              "+1,500"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "gift-codes",
+        "heading": "Free Gift vs Codes",
+        "paragraphs": [
+          "The gift checks a set of tasks and is claimed through its own panel. Codes are text strings submitted to a redemption menu. Completing one system does not replace the other, and the gift’s name is not a string that you should enter as a code.",
+          "This distinction helps when troubleshooting. If a Codes menu rejects text, check spelling and code availability. If a gift task remains incomplete, check the like, favorite or Roblox community action. A fresh code list will not fix a missing community membership."
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "Redeem the separate text codes"
+          }
+        ]
+      },
+      {
+        "id": "not-working",
+        "heading": "Free Gift Not Working",
+        "paragraphs": [
+          "First compare the live task list with what you completed. A like, a favorite and a community membership are three separate actions. Make sure all were performed on the Roblox account that is currently in the experience, especially if you use more than one account.",
+          "Close and reopen the gift panel after completing a task. If the display still has not refreshed, rejoin the server and check again. Avoid repeatedly pressing Claim while one task remains incomplete: identify that task and check its status on Roblox first.",
+          "If the join action fails, read the message on the Roblox community page. Community membership limits can prevent a new join, so review your memberships if Roblox reports that you have reached the limit. Choose any membership changes yourself; there is no special paid service needed to perform this step."
+        ],
+        "subsections": [
+          {
+            "heading": "The community task stays incomplete",
+            "paragraphs": [
+              "Confirm the community is Janitors Studios and that your account is actually a member. Following a social page, joining Discord or simply opening the community page is not the same action as joining it on Roblox."
+            ]
+          },
+          {
+            "heading": "The button does not give another reward",
+            "paragraphs": [
+              "The October 1 offer is one-time. If you already claimed it, reopening the panel does not create a repeat reward. Check your stats and the panel’s current message rather than expecting another payout."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "after-gift",
+        "heading": "What to Do After Claiming",
+        "paragraphs": [
+          "Return to the block area and make a delivery. A better stat baseline can make regular play feel different, so learn what a full load looks like now and how long each stage takes. Use that run to choose your next action instead of following a fixed training plan.",
+          "If you can carry a useful load but take many actions to collect it, consider Bulk Pickup. If unloading is the slow part, consider Bulk Place. If most of your time is spent traveling, a Speed workout may be useful. Strength training remains relevant when capacity is the main limit.",
+          "The beginner guide connects these choices into a first-session route. The training guide explains how to pick between Speed and Strength without relying on a permanent ratio or exact stat threshold."
+        ],
+        "links": [
+          {
+            "slug": "guide",
+            "label": "Continue with the beginner route"
+          },
+          {
+            "slug": "training",
+            "label": "Choose your next training stat"
+          }
+        ]
+      },
+      {
+        "id": "claim-check",
+        "heading": "Check the Claim Before Leaving",
+        "paragraphs": [
+          "Look at the matching stat displays after pressing Claim. This is more useful than assuming the reward arrived because you completed the social tasks. If the numbers did not change, read the panel’s response and confirm whether it still shows an unfinished requirement.",
+          "Keep the gift separate from any rewards you redeem immediately afterward so you can tell which action worked. There is no need to share your password, install a reward extension or use a different website to claim. The actual claim stays inside the Roblox game."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What does the Build the Pyramid Free Gift give?",
+        "answer": "The October 1, 2026 offer gives +1,500 Speed and +1,500 Strength. Read the live panel for the current reward before relying on that amount."
+      },
+      {
+        "question": "How do I claim it?",
+        "answer": "Open the gift panel, like and favorite the experience, join Janitors Studios on Roblox and return to press Claim after the tasks show complete."
+      },
+      {
+        "question": "Is the Free Gift a code?",
+        "answer": "No. It is a task-based claim in its own panel. Text codes use a separate redemption menu and have their own changing rewards."
+      },
+      {
+        "question": "Can I claim it more than once?",
+        "answer": "The October 1 offer is a one-time reward. Use the current panel if the game introduces a different offer later."
+      },
+      {
+        "question": "Why is the group step not completing?",
+        "answer": "Check that you joined Janitors Studios on Roblox with the same account that is playing. Reopen the panel or rejoin if it has not refreshed, and read any membership-limit message on Roblox."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "guide",
+      "training",
+      "codes"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "discord",
+    "pageType": "article",
+    "navLabel": "Discord",
+    "title": "Build the Pyramid Discord & Community Links",
+    "description": "Find the Build the Pyramid Discord and Janitors Studios community links, what to check before joining, and where to follow codes and game updates.",
+    "keywords": [
+      "build the pyramid discord",
+      "build the pyramid discord server",
+      "Janitors Studios discord"
+    ],
+    "primaryKeyword": "build the pyramid discord",
+    "secondaryKeywords": [
+      "build the pyramid discord server",
+      "Janitors Studios discord"
+    ],
+    "searchIntent": "Find the Build the Pyramid Discord and Janitors Studios community links, what to check before joining, and where to follow codes and game updates.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roblox player guide",
+      "heading": "Build the Pyramid Discord",
+      "lead": "The current community invite opens Janitors Studios. Before joining, confirm that server name. If the invite changes, use the official Roblox game and its creator community as your fallback. Discord is optional and is not required to play."
+    },
+    "sections": [
+      {
+        "id": "invite",
+        "heading": "Build the Pyramid Discord Link",
+        "paragraphs": [
+          "Checked Oct 1, 2026: the invite below opens a server named Janitors Studios. Check the preview again when you use it, because invite destinations and availability can change. The button leaves this guide and opens Discord."
+        ],
+        "externalLinks": [
+          {
+            "url": "https://discord.com/invite/9sksDM6r8M",
+            "label": "Open Janitors Studios on Discord (external)"
+          },
+          {
+            "url": "https://www.roblox.com/communities/907940218/Janitors-Studios",
+            "label": "Open Janitors Studios on Roblox (external)"
+          },
+          {
+            "url": "https://www.roblox.com/games/123720558354386",
+            "label": "Play Build the Pyramid! on Roblox (external)"
+          }
+        ]
+      },
+      {
+        "id": "right-community",
+        "heading": "How to Check You Joined the Right Community",
+        "paragraphs": [
+          "Start with the server preview and look for Janitors Studios. Then compare the game’s creator on Roblox with the creator community link above. The shared game name alone is not enough: similarly named fan servers can exist, and their posts are not automatically developer announcements.",
+          "Use the Roblox experience page as your identity anchor. It identifies the game you are playing and its creator. When a community link looks unfamiliar, return there and check the current creator or social links rather than choosing whichever search result has the largest member count.",
+          "This guide never asks for Roblox credentials. You do not need to enter a Roblox password here to read an invite or check a code. Sign in only on the relevant service’s own page when you choose to use that service."
+        ],
+        "subsections": [
+          {
+            "heading": "Before accepting an invite",
+            "paragraphs": [
+              "Take a moment to review what opens."
+            ],
+            "bullets": [
+              "Confirm the server preview says Janitors Studios.",
+              "Compare it with the Roblox creator community.",
+              "Read the server rules after joining.",
+              "Keep your Roblox login details out of chats and reward forms."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "announcements",
+        "heading": "Where to Find Codes and Updates",
+        "paragraphs": [
+          "Look for announcements or update information within the community. Channel names and layouts can change, so follow the server’s current navigation rather than expecting a channel with one permanent name. If you are unsure where news belongs, start with the visible rules or welcome information.",
+          "Check the date and game name on a post before using it. Janitors Studios can discuss more than one experience. An old code announcement may remain visible even after the code expires, while a general conversation can repeat a reward without its original date.",
+          "For a compact redemption list, use the Codes page. It separates active entries from expired ones and explains where to enter them. The community is useful for finding new announcements; the dated guide is useful for seeing several entries together without searching a conversation."
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "Read the dated active and expired code list"
+          }
+        ]
+      },
+      {
+        "id": "optional",
+        "heading": "Do You Need Discord to Play?",
+        "paragraphs": [
+          "No. Build the Pyramid! runs through Roblox independently of Discord. You can join the game, haul blocks, earn Coins, buy regular upgrades and use available training areas without joining a Discord server.",
+          "Discord is an optional place to follow news or discuss the game with other players. If you do not want to use it, keep the Roblox game page available and follow the beginner guide here. The Free Gift’s community requirement refers to Janitors Studios on Roblox, not Discord membership.",
+          "You also do not need Discord to type a code into the game’s redemption menu. A code may have been announced there, but redeeming a listed string happens inside the Roblox experience. Treat discovery and redemption as separate actions."
+        ],
+        "links": [
+          {
+            "slug": "guide",
+            "label": "Learn the game without joining Discord"
+          }
+        ]
+      },
+      {
+        "id": "invite-fails",
+        "heading": "Invite Not Working?",
+        "paragraphs": [
+          "An invite may expire, become unavailable or stop opening correctly in your current browser or app. First read the message shown by Discord. If it is clearly no longer valid, return to the Roblox experience page and look for the current creator community and social links.",
+          "Avoid collecting random reposted invites until one works. A different server can use the same game name without being the destination you intended. Use the creator community as the fallback and check the preview before accepting any replacement invitation.",
+          "If the preview opens but you cannot join, read Discord’s own response and account requirements. This guide cannot change an account restriction or a server rule. Do not pay someone to bypass a join problem or send them account details to perform the action for you."
+        ]
+      },
+      {
+        "id": "community-use",
+        "heading": "Using Community Advice Well",
+        "paragraphs": [
+          "Player discussions can help you compare upgrade choices, but match advice to your own route. Someone with different stats or gym access may recommend a routine that does not fit a fresh account. Try the smallest relevant change and see whether it improves your delivery cycle.",
+          "When reading a claim about costs, rewards or unlocks, open the current in-game panel or Roblox listing before acting. Old screenshots can be useful context while still showing a price that has changed. Check dates and use the live interface for a purchase decision.",
+          "This website is an independent fan-made guide. It does not operate the game or the Janitors Studios server. Game rules, announcements and community moderation belong to their respective destinations, so follow the information shown there when joining or playing."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the Build the Pyramid Discord?",
+        "answer": "The invite on this page opened Janitors Studios when checked on October 1, 2026. Confirm that name in the preview before joining and use the Roblox creator community if the invite changes."
+      },
+      {
+        "question": "Is Discord required to play?",
+        "answer": "No. You play through Roblox, and the normal building, upgrades and training route does not require Discord membership."
+      },
+      {
+        "question": "Where are new codes posted?",
+        "answer": "Watch Janitors Studios community announcements. There is no guaranteed posting schedule, and channel names can change. Use the Codes page for a dated list and redemption help."
+      },
+      {
+        "question": "What if the invite expires?",
+        "answer": "Return to the Roblox game and its creator community, then look for current social links. Check the destination before accepting a replacement invite."
+      },
+      {
+        "question": "Is this site run by Janitors Studios?",
+        "answer": "No. This is an independent fan-made guide for Build the Pyramid! on Roblox, with no affiliation to Roblox or Janitors Studios."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "codes",
+      "guide"
+    ],
+    "lastReviewed": "2026-10-01"
+  }
+]
