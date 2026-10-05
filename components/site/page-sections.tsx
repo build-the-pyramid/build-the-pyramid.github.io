@@ -1,18 +1,25 @@
+import { Fragment, type ReactNode } from "react";
 import { ArrowRight, CheckCircle2, ExternalLink } from "lucide-react";
 import Link from "next/link";
 import type { PageSection } from "@/config/types";
 import { routePath } from "@/lib/urls";
 import { DataTable } from "./data-table";
 
-export function PageSections({ sections }: { sections: PageSection[] }) {
+export function PageSections({ sections, afterOpeningContent }: { sections: PageSection[]; afterOpeningContent?: ReactNode }) {
   return (
     <div className="space-y-16">
-      {sections.map((section) => (
+      {sections.map((section, sectionIndex) => (
         <section id={section.id} key={section.id} className="scroll-mt-24">
           {section.eyebrow ? <p className="eyebrow">{section.eyebrow}</p> : null}
           <h2>{section.heading}</h2>
           {section.intro ? <p className="section-lead">{section.intro}</p> : null}
-          {section.paragraphs?.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          {sectionIndex === 0 && section.intro ? afterOpeningContent : null}
+          {section.paragraphs?.map((paragraph, paragraphIndex) => (
+            <Fragment key={paragraph}>
+              <p>{paragraph}</p>
+              {sectionIndex === 0 && !section.intro && paragraphIndex === 0 ? afterOpeningContent : null}
+            </Fragment>
+          ))}
 
           {section.subsections?.length ? (
             <div className="mt-7 grid gap-5 md:grid-cols-2">
@@ -44,6 +51,7 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
           ) : null}
 
           {section.table ? <DataTable table={section.table} /> : null}
+          {sectionIndex === 0 && !section.intro && !section.paragraphs?.length ? afterOpeningContent : null}
 
           {section.externalLinks?.length ? (
             <div className="mt-6 flex flex-wrap gap-3">

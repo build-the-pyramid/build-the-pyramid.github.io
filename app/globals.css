@@ -144,7 +144,21 @@ html[data-header-style="border"] .site-nav-link {
   border-radius: 0;
 }
 
-[data-native-ad-slot]:empty { display: none; }
+/* Only the outer advertising shell is styled; provider creatives are untouched. */
+.ad-slot { min-width: 0; max-width: 100%; margin: 1rem auto; }
+.ad-label { margin-bottom: .35rem; text-align: center; font-size: .65rem; letter-spacing: .08em; color: hsl(var(--muted-foreground)); opacity: .7; }
+.ad-host { display: flex; justify-content: center; min-width: 0; max-width: 100%; overflow: hidden; }
+.ad-frame { display: block; flex: 0 1 auto; max-width: 100%; border: 0; }
+.ad-slot-banner .ad-host { min-height: var(--ad-banner-height, 50px); }
+.ad-slot-native { border-top: 1px solid hsl(var(--border)); border-bottom: 1px solid hsl(var(--border)); padding: .65rem 0; }
+.ad-slot-native .ad-frame { width: 100%; }
+.ad-slot[data-ad-state="empty"],
+.ad-slot-native[data-ad-state="loading"] { height: 0; min-height: 0; margin: 0; padding: 0; overflow: hidden; visibility: hidden; border: 0; }
+.ad-slot[data-ad-state="empty"] .ad-label,
+.ad-slot-native[data-ad-state="loading"] .ad-label { display: none; }
+@media (min-width: 768px) {
+  .ad-slot-banner .ad-host { min-height: var(--ad-banner-height, 90px); }
+}
 
 /* Wiki skin — denser editorial layout. Unprefixed rules above stay portal defaults. */
 html[data-skin="wiki"] .site-container {

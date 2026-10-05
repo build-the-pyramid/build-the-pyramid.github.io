@@ -93,7 +93,8 @@ function walk(path) { return readdirSync(new URL(path, root)).flatMap((name) => 
 for (const path of walk('out')) {
   if (!/\.(html|txt|xml|json|svg|webmanifest)$/.test(path)) continue;
   const raw = read(path);
-  if (path.endsWith('.html')) {
+  // Standalone ad documents intentionally contain no site analytics or SEO.
+  if (path.endsWith('.html') && !path.startsWith('out/ads/')) {
     const head = raw.match(/<head>([\s\S]*?)<\/head>/)?.[1] ?? '';
     const id = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim() || JSON.parse(read('content/generated/integrations.json')).gaMeasurementId;
     if (/^G-[A-Z0-9]+$/i.test(id ?? '')) {
