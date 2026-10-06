@@ -33,7 +33,8 @@ for (const page of all) {
   check(draft || attr(meta('robots') ?? '', 'content') === 'index, follow', `${path}: not index/follow`);
   check(tags(main, 'h1').length === 1, `${path}: H1 count is not one`);
   check(normalize(main.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? '') === page.hero.heading, `${path}: wrong H1`);
-  check(text.includes('Last updated: October 1, 2026'), `${path}: no visible updated date`);
+  const reviewedDate = new Date(`${page.lastReviewed}T00:00:00Z`).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+  check(text.includes(`Last updated: ${reviewedDate}`), `${path}: no visible updated date`);
   check(text.includes('Frequently Asked Questions'), `${path}: FAQ missing`);
   check(!forbidden.test(text), `${path}: forbidden player-visible text`);
   check(html.includes('aria-controls="primary-navigation"') && html.includes('aria-label="Open navigation"'), `${path}: mobile navigation missing`);
@@ -78,7 +79,7 @@ for (const page of all) {
 }
 const sitemap = read('out/sitemap.xml');
 const urls = [...sitemap.matchAll(/<loc>([^<]*)<\/loc>/g)].map((match) => match[1]).sort();
-check(JSON.stringify(urls) === JSON.stringify(all.map((page) => `${host}/${page.slug ? `${page.slug}/` : ''}`).sort()), 'Sitemap must contain exactly the eight launch URLs');
+check(urls.length === 11 && JSON.stringify(urls) === JSON.stringify(all.map((page) => `${host}/${page.slug ? `${page.slug}/` : ''}`).sort()), 'Sitemap must contain exactly the 11 SEO URLs');
 check(draft || /Allow: \/\s/.test(read('out/robots.txt')), 'Robots blocks launch pages');
 check(read('out/robots.txt').includes(`${host}/sitemap.xml`), 'Robots sitemap URL is wrong');
 check(!existsSync(new URL('out/wiki/index.html', root)), 'Unexpected exported wiki page');

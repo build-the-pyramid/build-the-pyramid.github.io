@@ -1,6 +1,6 @@
 "use client";
 
-import { Menu, X } from "lucide-react";
+import { ChevronDown, Menu, X } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
@@ -26,6 +26,9 @@ export function SiteHeader({ links }: { links: InternalLink[] }) {
 function PortalHeader({ links }: { links: InternalLink[] }) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname() || "/";
+  const moreSlugs = ["free-gift", "gym-multipliers", "pyramid", "waters-of-nu"];
+  const moreLinks = links.filter((link) => moreSlugs.includes(link.slug));
+  const moreActive = moreLinks.some((link) => isCurrent(link.slug, pathname));
 
   return (
     <header className="site-header relative sticky top-0 z-50">
@@ -52,7 +55,7 @@ function PortalHeader({ links }: { links: InternalLink[] }) {
         <nav
           id="primary-navigation"
           aria-label="Primary navigation"
-          className={`site-nav ${open ? "flex" : "hidden"} absolute inset-x-0 top-16 flex-col gap-1 border-b border-border p-4 shadow-theme lg:static lg:flex lg:flex-row lg:border-0 lg:bg-transparent lg:p-0 lg:shadow-none`}
+          className={`site-nav ${open ? "flex" : "hidden"} absolute inset-x-0 top-16 max-h-[calc(100dvh-4rem)] flex-col gap-1 overflow-y-auto border-b border-border p-4 shadow-theme lg:static lg:flex lg:flex-row lg:overflow-visible lg:border-0 lg:bg-transparent lg:p-0 lg:shadow-none`}
         >
           {links.map((link) => {
             const active = isCurrent(link.slug, pathname);
@@ -61,13 +64,42 @@ function PortalHeader({ links }: { links: InternalLink[] }) {
                 key={link.slug}
                 href={routePath(link.slug)}
                 aria-current={active ? "page" : undefined}
-                className={`site-nav-link px-3 py-2 text-sm font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground ${active ? "is-active" : ""}`}
+                className={`site-nav-link px-3 py-2 text-sm font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground ${moreSlugs.includes(link.slug) ? "lg:hidden" : ""} ${active ? "is-active" : ""}`}
                 onClick={() => setOpen(false)}
               >
                 {link.label}
               </Link>
             );
           })}
+          <details
+            className="relative hidden lg:block"
+            onKeyDown={(event) => {
+              if (event.key === "Escape") {
+                event.currentTarget.open = false;
+                event.currentTarget.querySelector("summary")?.focus();
+              }
+            }}
+          >
+            <summary className={`site-nav-link flex cursor-pointer list-none items-center gap-1 px-3 py-2 text-sm font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-primary [&::-webkit-details-marker]:hidden ${moreActive ? "is-active" : ""}`}>
+              More <ChevronDown size={14} aria-hidden="true" />
+            </summary>
+            <div className="absolute right-0 top-full mt-2 flex w-52 flex-col gap-1 rounded-theme border border-border bg-background p-2 shadow-theme">
+              {moreLinks.map((link) => (
+                <Link
+                  key={link.slug}
+                  href={routePath(link.slug)}
+                  aria-current={isCurrent(link.slug, pathname) ? "page" : undefined}
+                  className={`site-nav-link px-3 py-2 text-sm font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground ${isCurrent(link.slug, pathname) ? "is-active" : ""}`}
+                  onClick={(event) => {
+                    setOpen(false);
+                    event.currentTarget.closest("details")?.removeAttribute("open");
+                  }}
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </div>
+          </details>
         </nav>
       </div>
     </header>

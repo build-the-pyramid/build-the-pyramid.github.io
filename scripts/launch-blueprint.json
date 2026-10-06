@@ -30,5 +30,17 @@
   "discord": {
     "title": "Build the Pyramid Discord & Community Links",
     "description": "Find the Build the Pyramid Discord and Janitors Studios community links, what to check before joining, and where to follow codes and game updates."
+  },
+  "gym-multipliers": {
+    "title": "Build the Pyramid Gym Multipliers & Unlocks",
+    "description": "See Build the Pyramid gym multipliers, the pyramid requirements for 2x–100x gyms, optional skip passes, and how each training tier unlocks."
+  },
+  "pyramid": {
+    "title": "Build the Pyramid Blocks Required & Completion Guide",
+    "description": "Learn how many blocks the first Build the Pyramid needs, how the shared counter works, what happens after completion, and why later targets can vary."
+  },
+  "waters-of-nu": {
+    "title": "Build the Pyramid Waters of Nu Guide",
+    "description": "Find the Waters of Nu in Build the Pyramid, when the completed pyramid opens, what the pool boosts, and what to do before the server resets."
   }
 }

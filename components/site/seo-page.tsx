@@ -32,7 +32,7 @@ export function SeoPage({ page }: { page: SeoPageDefinition }) {
             <p className="mt-6 max-w-3xl text-lg leading-8 text-muted-foreground sm:text-xl">{page.hero.lead}</p>
             <p className="mt-6 flex items-center gap-2 text-sm text-muted-foreground">
               <CalendarCheck2 size={17} className="text-primary" />
-              Last updated: <time dateTime={page.lastReviewed}>October 1, 2026</time>
+              Last updated: <time dateTime={page.lastReviewed}>{new Date(`${page.lastReviewed}T00:00:00Z`).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" })}</time>
             </p>
           </div>
         </section>

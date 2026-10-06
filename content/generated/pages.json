@@ -1310,5 +1310,570 @@
       "guide"
     ],
     "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "gym-multipliers",
+    "pageType": "list",
+    "navLabel": "Gym Multipliers",
+    "title": "Build the Pyramid Gym Multipliers & Unlocks",
+    "description": "See Build the Pyramid gym multipliers, the pyramid requirements for 2x–100x gyms, optional skip passes, and how each training tier unlocks.",
+    "keywords": [
+      "build the pyramid gym multipliers",
+      "build the pyramid gym unlocks",
+      "build the pyramid gym requirements",
+      "build the pyramid gym tiers",
+      "build the pyramid 2x gym",
+      "build the pyramid 5x gym",
+      "build the pyramid 10x gym",
+      "build the pyramid 25x gym",
+      "build the pyramid 50x gym",
+      "build the pyramid 75x gym",
+      "build the pyramid 100x gym"
+    ],
+    "primaryKeyword": "build the pyramid gym multipliers",
+    "secondaryKeywords": [
+      "build the pyramid gym unlocks",
+      "build the pyramid gym requirements",
+      "build the pyramid gym tiers",
+      "build the pyramid 2x gym",
+      "build the pyramid 5x gym",
+      "build the pyramid 10x gym",
+      "build the pyramid 25x gym",
+      "build the pyramid 50x gym",
+      "build the pyramid 75x gym",
+      "build the pyramid 100x gym"
+    ],
+    "searchIntent": "Find the free gym unlock ladder, completed-pyramid requirements and optional named requirement skips.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "factsStatus": "verified",
+    "hero": {
+      "heading": "Build the Pyramid Gym Multipliers",
+      "lead": "Build the Pyramid gym multipliers unlock through completed pyramids: Base is available from the start; 2x needs 1; 5x needs 3; 10x needs 8; 25x needs 15; 50x needs 25; 75x needs 50; and 100x needs 100. Admin Gym has separate paid access. The numbered tiers unlock for free, their passes are optional requirement skips, and Coins do not buy access."
+    },
+    "sections": [
+      {
+        "id": "gym-unlock-table",
+        "heading": "Build the Pyramid Gym Unlock Table",
+        "paragraphs": [
+          "Use your completed-pyramid count to find the strongest standard gym you can enter. These Build the Pyramid gym requirements were checked against the public Roblox pass descriptions on October 6, 2026. The free route and the named skip pass reach the same listed tier through different access requirements.",
+          "Read the third column as your accumulated completed pyramids, not blocks carried, Coins earned, or the current server’s construction percentage. Admin is listed separately because its pass describes paid access without a free completion gate or a numeric training multiplier."
+        ],
+        "table": {
+          "caption": "Gym access ladder — October 6, 2026",
+          "columns": [
+            "Gym Tier",
+            "Training Multiplier",
+            "Pyramids Needed Free",
+            "Optional Skip Pass"
+          ],
+          "rows": [
+            [
+              "Base",
+              "1x",
+              "0",
+              "None"
+            ],
+            [
+              "2x",
+              "2x",
+              "1",
+              "Unlock 2x Gym"
+            ],
+            [
+              "5x",
+              "5x",
+              "3",
+              "Unlock 5x Gym"
+            ],
+            [
+              "10x",
+              "10x",
+              "8",
+              "Unlock 10x Gym"
+            ],
+            [
+              "25x",
+              "25x",
+              "15",
+              "Unlock 25x Gym"
+            ],
+            [
+              "50x",
+              "50x",
+              "25",
+              "Unlock 50x Gym"
+            ],
+            [
+              "75x",
+              "75x",
+              "50",
+              "Unlock 75x Gym"
+            ],
+            [
+              "100x",
+              "100x",
+              "100",
+              "Unlock 100x Gym"
+            ],
+            [
+              "Admin",
+              "Separate Admin tier",
+              "Paid access",
+              "Unlock ADMIN Gym"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-multipliers-work",
+        "heading": "How Gym Multipliers Work",
+        "paragraphs": [
+          "Gym tiers affect the training gain at their training areas. The treadmill trains Speed; the strength or bench station trains Strength, which supports carrying progression. Choose the station for the stat you want to raise, then use the highest tier you legitimately have access to.",
+          "A gym multiplier describes the training zone, not every part of your character. The 10x Gym does not make every delivery ten times faster: travel, capacity, collecting, and placing still contribute separately.",
+          "Watch the matching stat when training starts. Confirm you are using equipment in the intended zone. The zone label and visible stat change are more useful than calculating a gain-per-tick formula from the multiplier alone."
+        ]
+      },
+      {
+        "id": "free-gym-unlocks",
+        "heading": "How to Unlock Better Gyms for Free",
+        "paragraphs": [
+          "The free progression gates are 1, 3, 8, 15, 25, 50, and 100 completed pyramids. Your first completion opens the 2x Gym; three completions open 5x; eight open 10x. Continue building toward fifteen for 25x and twenty-five for 50x, then fifty for 75x and one hundred for 100x.",
+          "Treat the next gate as a concrete milestone. With seven completed pyramids, for example, your next listed tier is the 10x Gym at eight. You do not need to spend Coins on the gym door, and collecting more blocks without finishing the shared objective is not the same as adding a completion.",
+          "After a pyramid finishes, check your completion count and the newly available gym entrance. Moving to that tier lets you train there between building runs. If the requirement still appears locked, compare the displayed count with the zone’s current requirement before assuming that a purchase is necessary."
+        ],
+        "links": [
+          {
+            "slug": "pyramid",
+            "label": "See how shared pyramid completion works"
+          }
+        ]
+      },
+      {
+        "id": "gym-skip-passes",
+        "heading": "Gym Unlock Passes vs Free Progression",
+        "paragraphs": [
+          "The numbered Roblox passes skip the requirement for the named gym. Unlock 25x Gym, for example, describes skipping its fifteen-pyramid gate. That is an optional shortcut for someone who wants that training area sooner; reaching fifteen completed pyramids provides the normal free route.",
+          "Read each purchase description separately. A higher gym pass should not be treated as a bundle of every lower pass unless Roblox explicitly describes that bundle. Likewise, the Admin Gym pass should not be treated as the final free step after one hundred completions.",
+          "Before buying, compare the named tier with your current access and next completion milestone. Check Roblox’s purchase screen for the price and entitlement. Other pass features and purchase comparisons are covered in the gamepasses guide."
+        ],
+        "links": [
+          {
+            "slug": "gamepasses",
+            "label": "Compare Gym skip passes and other gamepasses"
+          }
+        ]
+      },
+      {
+        "id": "gym-versus-stats",
+        "heading": "Gym Multipliers vs Speed and Strength",
+        "paragraphs": [
+          "Build the Pyramid gym tiers answer where you can train and which zone multiplier is available. Speed and Strength answer what you train: travel pace or carrying progression. A better zone does not choose that stat for you. For help deciding which bottleneck to train, use the dedicated training guide."
+        ],
+        "links": [
+          {
+            "slug": "training",
+            "label": "Choose between Speed and Strength training"
+          }
+        ]
+      },
+      {
+        "id": "waters-versus-gym",
+        "heading": "Waters of Nu Is Not the 2x Gym",
+        "paragraphs": [
+          "Waters of Nu is a separate training opportunity inside the completed pyramid during its post-completion window. The normal 2x Gym is part of the standard unlock ladder, with a one-pyramid requirement or an optional named skip pass. Similar multiplier wording does not make them the same location.",
+          "Use the interior while the current server makes it available, then return to the strongest normal gym you can access for ordinary training. Do not rely on a closed pyramid entrance to judge whether your 2x Gym requirement has been met; check the normal gym area and your completed-pyramid count instead."
+        ],
+        "links": [
+          {
+            "slug": "waters-of-nu",
+            "label": "Find Waters of Nu after completion"
+          },
+          {
+            "slug": "guide",
+            "label": "Follow the beginner progression route"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What gym unlocks after 1 pyramid?",
+        "answer": "One completed pyramid unlocks the normal 2x Gym for free. The Base gym is already available before that first completion."
+      },
+      {
+        "question": "How many pyramids do I need for the 5x Gym?",
+        "answer": "The free 5x Gym gate is three completed pyramids. Unlock 5x Gym is the optional pass that skips this named requirement."
+      },
+      {
+        "question": "How many pyramids unlock the 10x Gym?",
+        "answer": "Eight completed pyramids unlock the 10x Gym through free progression. Check your completed count rather than the server’s block counter."
+      },
+      {
+        "question": "What is the highest normal Build the Pyramid gym?",
+        "answer": "The highest numbered standard tier in the current ladder is the 100x Gym at one hundred completions. Admin Gym is separate paid access."
+      },
+      {
+        "question": "Do Gym unlocks cost Coins?",
+        "answer": "No. The numbered free gym ladder uses completed-pyramid requirements, not Coins. Coins belong to the separate upgrade system."
+      },
+      {
+        "question": "Do I need a gamepass to unlock better gyms?",
+        "answer": "No. Complete pyramids to unlock the numbered tiers for free. Their named gamepasses are optional requirement skips; Admin has separate paid access."
+      },
+      {
+        "question": "Is Waters of Nu the same as the 2x Gym?",
+        "answer": "No. Waters of Nu is a temporary interior opportunity after pyramid completion; the 2x Gym is a normal progression tier."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "training",
+      "pyramid"
+    ],
+    "lastReviewed": "2026-10-06"
+  },
+  {
+    "enabled": true,
+    "slug": "pyramid",
+    "pageType": "guide",
+    "navLabel": "Pyramid",
+    "title": "Build the Pyramid Blocks Required & Completion Guide",
+    "description": "Learn how many blocks the first Build the Pyramid needs, how the shared counter works, what happens after completion, and why later targets can vary.",
+    "keywords": [
+      "build the pyramid how many blocks",
+      "how many blocks in build the pyramid",
+      "build the pyramid blocks required",
+      "build the pyramid pyramid requirement",
+      "build the pyramid first pyramid",
+      "build the pyramid completion",
+      "build the pyramid monument"
+    ],
+    "primaryKeyword": "build the pyramid how many blocks",
+    "secondaryKeywords": [
+      "how many blocks in build the pyramid",
+      "build the pyramid blocks required",
+      "build the pyramid pyramid requirement",
+      "build the pyramid first pyramid",
+      "build the pyramid completion",
+      "build the pyramid monument"
+    ],
+    "searchIntent": "Understand the first-pyramid block reference, shared server target, completion behavior and progression unlocks.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "factsStatus": "verified",
+    "hero": {
+      "heading": "How Many Blocks Are in Build the Pyramid?",
+      "lead": "Recent gameplay shows 171,700 blocks as the first-pyramid reference target. It is a shared server counter, not a personal requirement. Later pyramid targets can differ, so the number shown in your current server HUD is always the final value to follow."
+    },
+    "sections": [
+      {
+        "id": "first-pyramid-blocks",
+        "heading": "How Many Blocks Does the First Pyramid Need?",
+        "paragraphs": [
+          "As of October 6, 2026, use 171,700 blocks as the recent first-pyramid reference, rather than a permanent total for every monument. This answers the common question of how many blocks are in Build the Pyramid without making you responsible for delivering that entire amount yourself.",
+          "Look at the active server’s HUD before planning a session. Its counter shows progress toward the current objective. If it displays a different total, follow that number: a later pyramid or an updated version of the game can differ from the first-pyramid reference.",
+          "Separate the target from the remaining work: the total is the build requirement, while deposited blocks show existing progress. Joining a partially built pyramid means contributing to an objective already underway, not starting a personal 171,700-block checklist."
+        ]
+      },
+      {
+        "id": "shared-server-counter",
+        "heading": "The Pyramid Counter Is Shared by the Server",
+        "paragraphs": [
+          "Deposited blocks advance the common pyramid objective. Everyone building in the same server contributes to that progress, so the number can rise while you are walking, collecting, or training. Your personal carried-block display instead describes the load you currently hold and the capacity available for that trip.",
+          "Picking up stone prepares your load; depositing it advances construction. If you are full, return to the valid placement area and place the blocks. Your carried load and the construction counter describe different things.",
+          "Several active builders can advance the objective together. A busy server with idle players may progress more slowly than a smaller active group. Watch construction activity; population alone cannot predict an exact completion time."
+        ]
+      },
+      {
+        "id": "later-pyramid-targets",
+        "heading": "Why Later Pyramid Targets Can Be Different",
+        "paragraphs": [
+          "Build the Pyramid blocks required should be read from the current objective. Later completions can present a harder or different target, and game updates can change the amount shown. The first-pyramid reference is useful context, but it is not a rule that binds every future build.",
+          "Read the total again when another cycle starts. Multiplying 171,700 by your desired completions cannot reliably predict future work, because targets and shared contributions can vary."
+        ]
+      },
+      {
+        "id": "pyramid-completion",
+        "heading": "What Happens When the Pyramid Is Completed?",
+        "paragraphs": [
+          "Finishing the shared structure triggers the completion sequence and increases pyramid progression. Once the sequence ends, check the completed-pyramid count on your HUD. That count connects the building objective to the requirements for stronger normal gym tiers.",
+          "The finished interior can open during the post-completion window, giving you a chance to visit Waters of Nu. Check the base entrance promptly rather than assuming it remains open during ordinary construction.",
+          "Check progression and access when completion happens. Read your count and remaining time, then enter the interior or inspect your newly accessible gym. Do not assume an extra hidden reward or fixed reset schedule."
+        ],
+        "links": [
+          {
+            "slug": "gym-multipliers",
+            "label": "Check the completed-pyramid Gym requirements"
+          },
+          {
+            "slug": "waters-of-nu",
+            "label": "Visit the completed pyramid’s Waters of Nu"
+          }
+        ]
+      },
+      {
+        "id": "completion-gym-gates",
+        "heading": "Pyramid Completions and Gym Unlocks",
+        "paragraphs": [
+          "The numbered gym gates connect 1, 3, 8, 15, 25, 50, and 100 completed pyramids to the 2x, 5x, 10x, 25x, 50x, 75x, and 100x tiers respectively. Those are free completion milestones; the Base gym is available from the start.",
+          "Plan around your next completion gate. The gym multipliers guide has the complete table, named skip passes, and separate Admin tier. Your accumulated completions and the server’s construction total serve different purposes."
+        ],
+        "links": [
+          {
+            "slug": "gym-multipliers",
+            "label": "View the full Gym multiplier unlock ladder"
+          }
+        ]
+      },
+      {
+        "id": "finish-faster",
+        "heading": "How to Finish the Pyramid Faster",
+        "paragraphs": [
+          "Contribute consistently and reduce the part of the delivery loop that is slowing you down. Improve pickup and placement efficiency when collecting or depositing takes too long. Train the current stat bottleneck when travel pace or carrying capacity is limiting your trips.",
+          "A populated, active public server can help the shared objective move forward, but check actual building activity rather than expecting a guaranteed finish from the player count. Keep placing at the permitted area as the structure grows. Arriving with a full load only helps once that load reaches the pyramid.",
+          "Use the upgrades guide for Coin spending and the training guide for stat choices. Neither produces a universal blocks-per-minute figure or promised finish time. The beginner guide explains the basic route."
+        ],
+        "links": [
+          {
+            "slug": "upgrades",
+            "label": "Improve pickup and placement efficiency"
+          },
+          {
+            "slug": "training",
+            "label": "Train the current Speed or Strength bottleneck"
+          },
+          {
+            "slug": "guide",
+            "label": "Learn the basic building loop"
+          }
+        ]
+      },
+      {
+        "id": "after-completion",
+        "heading": "What to Do Right After Completion",
+        "paragraphs": [
+          "After the completion sequence, check your new pyramid count and any normal gym gate you have reached. Then inspect the entrance at the base while the interior is available. If the current server still exposes Waters of Nu, enter promptly and follow its training and timer display.",
+          "When the window ends, read the next objective. Your count, available gym access, and current server counter will help you decide between training and returning to the shared building cycle."
+        ],
+        "links": [
+          {
+            "slug": "waters-of-nu",
+            "label": "Follow the Waters of Nu entry steps"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many blocks are in the first Build the Pyramid pyramid?",
+        "answer": "The recent first-pyramid reference is 171,700 blocks as of October 6, 2026. Use your current server HUD if it shows another total."
+      },
+      {
+        "question": "Is the block counter shared with everyone?",
+        "answer": "Yes. Deposited blocks from players in the same server advance the shared objective. Your carried-block display is your personal load, not the server target."
+      },
+      {
+        "question": "Does every pyramid require 171,700 blocks?",
+        "answer": "No. That number is a first-pyramid reference. Later targets or game updates can differ, so read the active counter for the actual requirement."
+      },
+      {
+        "question": "What do you get for completing a pyramid?",
+        "answer": "Completion increases pyramid progression, connects to normal gym unlock gates, and can open the finished interior during the post-completion window. Check your live HUD and entrance."
+      },
+      {
+        "question": "Which gyms unlock after completing pyramids?",
+        "answer": "The normal numbered gym ladder runs from 2x after one completion to 100x after one hundred. The intermediate gates are three, eight, fifteen, twenty-five, and fifty completions."
+      },
+      {
+        "question": "Can one player finish the pyramid alone?",
+        "answer": "The counter accepts shared contributions, and the game is designed around cooperative public-server progress. Solo or near-solo work and time vary heavily with the target, stats, upgrades, and server activity; there is no guaranteed solo finish time."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "gym-multipliers",
+      "waters-of-nu"
+    ],
+    "lastReviewed": "2026-10-06"
+  },
+  {
+    "enabled": true,
+    "slug": "waters-of-nu",
+    "pageType": "guide",
+    "navLabel": "Waters of Nu",
+    "title": "Build the Pyramid Waters of Nu Guide",
+    "description": "Find the Waters of Nu in Build the Pyramid, when the completed pyramid opens, what the pool boosts, and what to do before the server resets.",
+    "keywords": [
+      "build the pyramid waters of nu",
+      "waters of nu build the pyramid",
+      "build the pyramid waters of nu location",
+      "build the pyramid waters of nu boost",
+      "build the pyramid inside pyramid",
+      "build the pyramid after completion"
+    ],
+    "primaryKeyword": "build the pyramid waters of nu",
+    "secondaryKeywords": [
+      "waters of nu build the pyramid",
+      "build the pyramid waters of nu location",
+      "build the pyramid waters of nu boost",
+      "build the pyramid inside pyramid",
+      "build the pyramid after completion"
+    ],
+    "searchIntent": "Locate and enter Waters of Nu after completion, understand its reported training effect and temporary access window.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 900,
+    "factsStatus": "verified",
+    "hero": {
+      "heading": "Build the Pyramid Waters of Nu",
+      "lead": "Waters of Nu is inside the completed pyramid during the post-completion window. After the completion sequence, check the entrance at the pyramid base and follow the interior route. Current published gameplay walkthroughs report that the pool trains Speed and Strength at 2x the normal rate during that window. Follow the live training interface and timer because reset timing can change."
+    },
+    "sections": [
+      {
+        "id": "waters-location",
+        "heading": "Where Is the Waters of Nu?",
+        "paragraphs": [
+          "Waters of Nu is inside the finished structure, through the base entrance. Watch the shared objective if you want to visit: a pyramid still under construction does not offer the same post-completion opportunity.",
+          "After the completion sequence, head to the base entrance and follow the open interior route toward the pool. Look inside the finished pyramid rather than searching for coordinates or a separate outdoor gym."
+        ]
+      },
+      {
+        "id": "enter-completed-pyramid",
+        "heading": "How to Enter the Completed Pyramid",
+        "paragraphs": [
+          "Move promptly once construction finishes. Use these entry steps while the current server still has the completed structure open; joining after the window has passed may leave you facing a closed entrance."
+        ],
+        "steps": [
+          {
+            "heading": "Wait for completion",
+            "description": "Wait for the shared pyramid to complete. Watch the server’s construction counter rather than your personal carried-block total."
+          },
+          {
+            "heading": "Finish the completion sequence",
+            "description": "Finish or dismiss the completion sequence so you can move again and check the current server state."
+          },
+          {
+            "heading": "Go to the base entrance",
+            "description": "Go to the entrance at the pyramid base and check that the interior is open."
+          },
+          {
+            "heading": "Follow the interior path",
+            "description": "Follow the open interior path into the completed structure instead of returning to the quarry."
+          },
+          {
+            "heading": "Find the pool and read the UI",
+            "description": "Find the Waters of Nu pool and read its current training display and on-screen timer before settling in."
+          }
+        ]
+      },
+      {
+        "id": "waters-training-boost",
+        "heading": "What Does Waters of Nu Do?",
+        "paragraphs": [
+          "Published gameplay walkthroughs available on October 6, 2026 report simultaneous Speed and Strength training at twice the normal rate in the pool. That makes the interior useful when you want to raise both stats during the available window, rather than choosing one ordinary training station.",
+          "Check both stats before entering the pool, then watch whether both rise. If the live interface describes a different effect, follow it rather than treating the reported 2x rate as a permanent formula.",
+          "Speed relates to travel pace; Strength supports carrying progression. Afterward, use the training guide to decide which bottleneck to work on at normal equipment."
+        ],
+        "links": [
+          {
+            "slug": "training",
+            "label": "Understand Speed and Strength training"
+          }
+        ]
+      },
+      {
+        "id": "waters-open-window",
+        "heading": "How Long Does Waters of Nu Stay Open?",
+        "paragraphs": [
+          "Current walkthrough reporting available on October 6, 2026 puts the post-completion reset window at roughly three minutes. Treat that as a practical reason to enter quickly, rather than a guarantee that every server will always give you exactly 180 seconds.",
+          "Follow the on-screen timer when you regain control. Watching the completion sequence, walking to the entrance, and finding the pool can reduce your training time. Use whatever opportunity the game still shows."
+        ]
+      },
+      {
+        "id": "waters-versus-2x-gym",
+        "heading": "Waters of Nu vs the 2x Gym",
+        "paragraphs": [
+          "Waters of Nu is a temporary interior opportunity after the shared pyramid finishes. The normal 2x Gym is a standard progression tier unlocked after one completed pyramid, or through its optional named requirement-skip pass. They are different places with different access conditions.",
+          "A closed interior does not mean your normal 2x Gym access disappeared. Check the gym separately. Buying its skip pass should not be assumed to open a pyramid still under construction or past its completion window."
+        ],
+        "links": [
+          {
+            "slug": "gym-multipliers",
+            "label": "Compare the normal Gym unlock requirements"
+          }
+        ]
+      },
+      {
+        "id": "before-pyramid-reset",
+        "heading": "What to Do Before the Pyramid Resets",
+        "paragraphs": [
+          "Enter promptly and use the pool while available. Check both stat values to see the result, and watch the timer instead of browsing menus or returning to collect stone.",
+          "Afterward, compare your completed-pyramid count with the next gym gate, then read the new building objective. This connects temporary interior training with your normal progression into another shared construction cycle."
+        ],
+        "links": [
+          {
+            "slug": "pyramid",
+            "label": "Check the pyramid completion and next-target guide"
+          },
+          {
+            "slug": "gym-multipliers",
+            "label": "Find your next normal Gym tier"
+          }
+        ]
+      },
+      {
+        "id": "closed-entrance",
+        "heading": "The Entrance Is Closed — What Should I Check?",
+        "paragraphs": [
+          "First confirm that this server actually completed its active pyramid. A nearly finished structure does not count as an open post-completion interior. Next, consider whether you joined after completion or stayed outside until the reset window had already passed.",
+          "Read the current counter, timer, and entrance prompts; updates or server state can change the window. If construction has resumed, contribute and check the entrance after the next completion. The beginner guide explains that loop."
+        ],
+        "links": [
+          {
+            "slug": "guide",
+            "label": "Return to the beginner building route"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where is Waters of Nu in Build the Pyramid?",
+        "answer": "It is inside the completed pyramid. After the completion sequence, check the base entrance and follow the open interior route to the pool."
+      },
+      {
+        "question": "How do I open the completed pyramid?",
+        "answer": "Wait for the shared server objective to finish, then finish or dismiss the completion sequence and check the base entrance during the available window."
+      },
+      {
+        "question": "What does Waters of Nu boost?",
+        "answer": "Current published walkthroughs report Speed and Strength training together at 2x the normal rate. Read the live interface and check both stats while using the pool."
+      },
+      {
+        "question": "Is Waters of Nu the same as the 2x Gym?",
+        "answer": "No. The pool is a temporary post-completion interior opportunity. The normal 2x Gym uses a completed-pyramid gate or an optional requirement-skip pass."
+      },
+      {
+        "question": "How long does the completed pyramid stay open?",
+        "answer": "The current walkthrough reference is roughly three minutes before reset. Your server’s on-screen timer is the value to follow, rather than a fixed universal duration."
+      },
+      {
+        "question": "What if the entrance is closed?",
+        "answer": "Confirm the active pyramid completed and that the post-completion window has not already passed. Read the current server UI and check again after the next completion."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "pyramid",
+      "training"
+    ],
+    "lastReviewed": "2026-10-06"
   }
 ]
